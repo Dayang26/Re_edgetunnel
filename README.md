@@ -4,7 +4,7 @@
 > 本项目核心代理逻辑参考自开源社区的杰出贡献。特别感谢：
 > *   **cmliu** ([cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)) - 原项目作者，提供了强大的面板与逻辑。
 > *   **zizifn** ([zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)) - 早期版本的贡献者。
-
+---
 ---
 
 > **EdgeTunnel (Refactored)** 是一个全新构建的 Cloudflare Workers 隧道代理方案。
